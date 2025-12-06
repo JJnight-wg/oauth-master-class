@@ -2,9 +2,9 @@ window.onload = () => {
   document.getElementById("button").onclick = () => {
     window.YaAuthSuggest.init(
       {
-        client_id: "c46f0c53093440c39f12eff95a9f2f93",
+        client_id: "y0__xCHy8KUBhjEpjUgq8u7xhUw38yBuQgBARdyXUzQzK6Jb3sCRTN24kwWHw",
         response_type: "token",
-        redirect_uri: "https://examplesite.com/suggest/token",
+        redirect_uri: "https://oauth-master-class-cofk.vercel.app/token.html",
       },
       "https://examplesite.com",
       {
