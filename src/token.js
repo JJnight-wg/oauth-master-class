@@ -1,3 +1,7 @@
 window.onload = () => {
-  // TODO
-};
+YaSendSuggestToken(
+   'https://examplesite.com',
+   {
+      flag: true
+   }
+)};
