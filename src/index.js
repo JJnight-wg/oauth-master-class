@@ -4,7 +4,7 @@ window.onload = () => {
     document.getElementById("suggest").onclick = () => {
         YaAuthSuggest.init(
             {
-                client_id: "y0__xCHy8KUBhjEpjUgq8u7xhUw38yBuQgBARdyXUzQzK6Jb3sCRTN24kwWHw",
+                client_id: "930b6d7f5f79450faf49d6a221c15bf2",
                 response_type: "token",
                 redirect_uri: "https://oauth-master-class-cofk.vercel.app//token.html",
             },
