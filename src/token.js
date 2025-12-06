@@ -1,7 +1,3 @@
 window.onload = () => {
-YaSendSuggestToken(
-   'https://examplesite.com',
-   {
-      flag: true
-   }
-)};
+    YaSendSuggestToken("https://oauth-master-class-lake.****.app");
+};
