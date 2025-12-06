@@ -6,7 +6,7 @@ window.onload = () => {
             {
                 client_id: "930b6d7f5f79450faf49d6a221c15bf2",
                 response_type: "token",
-                redirect_uri: "https://oauth-master-class-cofk.vercel.app//token.html",
+                redirect_uri: "https://oauth-master-class-cofk.vercel.app/token.html",
             },
             "https://oauth-master-class-cofk.vercel.app/"
         )
