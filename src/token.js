@@ -1,3 +1,3 @@
 window.onload = () => {
-    YaSendSuggestToken("https://oauth-master-class-lake.****.app");
+    YaSendSuggestToken("https://oauth-master-class-cofk.vercel.app");
 };
